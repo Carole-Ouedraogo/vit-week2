@@ -38,7 +38,7 @@ locking in the staged files to the current branch:
 commit -m "my message"
 ```
 
-After completing, commit to this master branch with the message "[Name] updated the master README"
+After completing, commit to this master branch with the message "[Carole] updated the master README"
 
 Switch to the branch that represents this month.
 
